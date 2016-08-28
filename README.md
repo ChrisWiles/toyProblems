@@ -6,3 +6,4 @@ My personal solutions to programming challenges I come across.
 - [Arrayception](Arrayception/Arrayception.js)
 - [Balanced Brackets](BalancedBrackets/BalancedBrackets.js)
 - [BinarySearchArray](BinarySearchArray/BinarySearchArray.js)
+- [CharacterFrequency](CharacterFrequency/CharacterFrequency.js)
