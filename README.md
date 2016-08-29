@@ -9,3 +9,4 @@ My personal solutions to programming challenges I come across.
 - [CharacterFrequency](CharacterFrequency/CharacterFrequency.js)
 - [BubbleSortV.2](BubbleSortV.2/BubbleSortV.2.js)
 - [CoinSums](CoinSums/CoinSums.js)
+- [CamelCase](CamelCase/CamelCase.js)
