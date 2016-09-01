@@ -11,4 +11,5 @@ My personal solutions to programming challenges I come across.
 - [CharacterFrequency](CharacterFrequency/CharacterFrequency.js)
 - [CoinSums](CoinSums/CoinSums.js)
 - [CommonAncestor](CommonAncestor/CommonAncestor.js)
+- [CommonCharacters](CommonCharacters/CommonCharacters.js)
 - [DeepEquality](DeepEquality/DeepEquality.js)
