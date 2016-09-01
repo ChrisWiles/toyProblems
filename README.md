@@ -12,4 +12,5 @@ My personal solutions to programming challenges I come across.
 - [CoinSums](CoinSums/CoinSums.js)
 - [CommonAncestor](CommonAncestor/CommonAncestor.js)
 - [CommonCharacters](CommonCharacters/CommonCharacters.js)
+- [ComposePipe](ComposePipe/ComposePipe.js)
 - [DeepEquality](DeepEquality/DeepEquality.js)
