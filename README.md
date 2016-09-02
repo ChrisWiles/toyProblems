@@ -15,4 +15,5 @@ My personal solutions to programming challenges I come across.
 - [ComposePipe](ComposePipe/ComposePipe.js)
 - [DeepEquality](DeepEquality/DeepEquality.js)
 - [RotateMatrix](RotateMatrix/RotateMatrix.js)
+- [OnlyUnique](OnlyUnique/OnlyUnique.js)
 - [Tree](Tree/Tree.js)
