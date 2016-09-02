@@ -14,3 +14,4 @@ My personal solutions to programming challenges I come across.
 - [CommonCharacters](CommonCharacters/CommonCharacters.js)
 - [ComposePipe](ComposePipe/ComposePipe.js)
 - [DeepEquality](DeepEquality/DeepEquality.js)
+- [Tree](Tree/Tree.js)
