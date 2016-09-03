@@ -14,6 +14,7 @@ My personal solutions to programming challenges I come across.
 - [CommonCharacters](CommonCharacters)
 - [ComposePipe](ComposePipe)
 - [DeepEquality](DeepEquality)
+- [EvenOccurrence](EvenOccurrence)
 - [IslandCount](IslandCount)
 - [IsSubsetOf](IsSubsetOf)
 - [LongestPalindrome](LongestPalindrome)
