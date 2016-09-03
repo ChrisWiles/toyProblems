@@ -14,6 +14,7 @@ My personal solutions to programming challenges I come across.
 - [CommonCharacters](CommonCharacters/CommonCharacters.js)
 - [ComposePipe](ComposePipe/ComposePipe.js)
 - [DeepEquality](DeepEquality/DeepEquality.js)
+- [IslandCount](IslandCount/IslandCount.js)
 - [RotateMatrix](RotateMatrix/RotateMatrix.js)
 - [OnlyUnique](OnlyUnique/OnlyUnique.js)
 - [Tree](Tree/Tree.js)
