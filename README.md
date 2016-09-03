@@ -19,3 +19,4 @@ My personal solutions to programming challenges I come across.
 - [RotateMatrix](RotateMatrix)
 - [OnlyUnique](OnlyUnique)
 - [Tree](Tree)
+- [LongestPalindrome](LongestPalindrome)
