@@ -18,6 +18,7 @@ My personal solutions to programming challenges I come across.
 - [IslandCount](IslandCount)
 - [IsSubsetOf](IsSubsetOf)
 - [LongestPalindrome](LongestPalindrome)
+- [LongestRun](LongestRun)
 - [Non-repeatedCharacter](Non-repeatedCharacter)
 - [OnlyUnique](OnlyUnique)
 - [RotateMatrix](RotateMatrix)
