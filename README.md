@@ -22,5 +22,6 @@ My personal solutions to programming challenges I come across.
 - [MilitaryTime](MilitaryTime)
 - [Non-repeatedCharacter](Non-repeatedCharacter)
 - [OnlyUnique](OnlyUnique)
+- [Postfix-NotationCalculator](Postfix-NotationCalculator)
 - [RotateMatrix](RotateMatrix)
 - [Tree](Tree)
