@@ -19,6 +19,7 @@ My personal solutions to programming challenges I come across.
 - [IsSubsetOf](IsSubsetOf)
 - [LongestPalindrome](LongestPalindrome)
 - [LongestRun](LongestRun)
+- [MilitaryTime](MilitaryTime)
 - [Non-repeatedCharacter](Non-repeatedCharacter)
 - [OnlyUnique](OnlyUnique)
 - [RotateMatrix](RotateMatrix)
