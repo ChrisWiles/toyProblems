@@ -15,6 +15,7 @@ My personal solutions to programming challenges I come across.
 - [ComposePipe](ComposePipe)
 - [DeepEquality](DeepEquality)
 - [EvenOccurrence](EvenOccurrence)
+- [HashTable](HashTable)
 - [IslandCount](IslandCount)
 - [IsSubsetOf](IsSubsetOf)
 - [LongestPalindrome](LongestPalindrome)
