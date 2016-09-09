@@ -25,5 +25,6 @@ My personal solutions to programming challenges I come across.
 - [Non-repeatedCharacter](Non-repeatedCharacter)
 - [OnlyUnique](OnlyUnique)
 - [Postfix-NotationCalculator](Postfix-NotationCalculator)
+- [PrimeTester](PrimeTester)
 - [RotateMatrix](RotateMatrix)
 - [Tree](Tree)
