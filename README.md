@@ -30,3 +30,4 @@ My personal solutions to programming challenges I come across.
 - [Tree](Tree)
 - [TreeBreadth-FirstSelect](TreeBreadth-FirstSelect)
 - [TreeCountLeaves](TreeCountLeaves)
+- [TreeDepth-FirstSelect](TreeDepth-FirstSelect)
