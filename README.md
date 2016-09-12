@@ -29,3 +29,4 @@ My personal solutions to programming challenges I come across.
 - [RotateMatrix](RotateMatrix)
 - [Tree](Tree)
 - [TreeBreadth-FirstSelect](TreeBreadth-FirstSelect)
+- [TreeCountLeaves](TreeCountLeaves)
