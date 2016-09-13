@@ -31,3 +31,4 @@ My personal solutions to programming challenges I come across.
 - [TreeBreadth-FirstSelect](TreeBreadth-FirstSelect)
 - [TreeCountLeaves](TreeCountLeaves)
 - [TreeDepth-FirstSelect](TreeDepth-FirstSelect)
+- [TreeMapping](TreeMapping)
