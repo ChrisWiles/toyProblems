@@ -26,6 +26,7 @@ My personal solutions to programming challenges I come across.
 - [OnlyUnique](OnlyUnique)
 - [Postfix-NotationCalculator](Postfix-NotationCalculator)
 - [PrimeTester](PrimeTester)
+- [RobotPaths](RobotPaths)
 - [RotateMatrix](RotateMatrix)
 - [Tree](Tree)
 - [TreeBreadth-FirstSelect](TreeBreadth-FirstSelect)
