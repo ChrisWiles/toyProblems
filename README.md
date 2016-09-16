@@ -26,6 +26,7 @@ My personal solutions to programming challenges I come across.
 - [OnlyUnique](OnlyUnique)
 - [Postfix-NotationCalculator](Postfix-NotationCalculator)
 - [PrimeTester](PrimeTester)
+- [QueueStack](QueueStack)
 - [QuickSort](QuickSort)
 - [RobotPaths](RobotPaths)
 - [RotateMatrix](RotateMatrix)
