@@ -16,6 +16,7 @@ My personal solutions to programming challenges I come across.
 - [DeepEquality](DeepEquality)
 - [EvenOccurrence](EvenOccurrence)
 - [HashTable](HashTable)
+- [HashTableResizing](HashTableResizing)
 - [IslandCount](IslandCount)
 - [IsSubsetOf](IsSubsetOf)
 - [LongestPalindrome](LongestPalindrome)
