@@ -19,6 +19,7 @@ My personal solutions to programming challenges I come across.
 - [HashTableResizing](HashTableResizing)
 - [IslandCount](IslandCount)
 - [IsSubsetOf](IsSubsetOf)
+- [LinkedList](LinkedList)
 - [LongestPalindrome](LongestPalindrome)
 - [LongestRun](LongestRun)
 - [MergeSort](MergeSort)
