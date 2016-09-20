@@ -1,4 +1,4 @@
-unction mergeSort(arr) {
+function mergeSort(arr) {
 
   if(arr.length === 1) {
     return arr;
