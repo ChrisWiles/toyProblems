@@ -17,6 +17,7 @@ My personal solutions to programming challenges I come across.
 - [EvenOccurrence](EvenOccurrence)
 - [HashTable](HashTable)
 - [HashTableResizing](HashTableResizing)
+- [InsertionSort](InsertionSort)
 - [IslandCount](IslandCount)
 - [IsSubsetOf](IsSubsetOf)
 - [LinkedList](LinkedList)
