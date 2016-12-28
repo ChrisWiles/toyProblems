@@ -3,6 +3,7 @@
 My personal solutions to programming challenges I come across.
 
 ## Table of Contents
+- [7 kyu Numbers with this digit inside](7 kyu Numbers with this digit inside)
 - [Arrayception](Arrayception)
 - [Balanced Brackets](BalancedBrackets)
 - [BinarySearchArray](BinarySearchArray)
