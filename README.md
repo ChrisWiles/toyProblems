@@ -3,6 +3,7 @@
 My personal solutions to programming challenges I come across.
 
 ## Table of Contents
+- [7 kyu Highest and Lowest](7 kyu Highest and Lowest)
 - [6 kyu Reducing by rules to get the result](6 kyu Reducing by rules to get the result)
 - [6 kyu Find the unique number](6 kyu Find the unique number)
 - [7 kyu Numbers with this digit inside](7 kyu Numbers with this digit inside)
