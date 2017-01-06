@@ -3,6 +3,7 @@
 My personal solutions to programming challenges I come across.
 
 ## Table of Contents
+- [7_kyu_Frequency_sequence](7_kyu_Frequency_sequence)
 - [6_kyu_Snakes_on_a_Plane_-_#1_Easy](6_kyu_Snakes_on_a_Plane_-_#1_Easy)
 - [6_kyu_Find_the_odd_int](6_kyu_Find_the_odd_int)
 - [7_kyu_Highest_and_Lowest](7_kyu_Highest_and_Lowest)
